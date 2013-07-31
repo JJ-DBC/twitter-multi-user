@@ -20,3 +20,6 @@ def request_token
   end
   session[:request_token]
 end
+
+# export TWITTER_KEY=<yumRi3hs4L61gQSEF03jGQ>
+# export TWITTER_SECRET=<yJ5QC1sZA7yGJhDni0uYWpVqvIDjiN9CBtThWRvpuI>
